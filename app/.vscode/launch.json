@@ -1,0 +1,12 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "Launch SWA with API",
+      "type": "node",
+      "request": "attach",
+      "port": 9229,
+      "preLaunchTask": "npm run start:dev"
+    }
+  ]
+}

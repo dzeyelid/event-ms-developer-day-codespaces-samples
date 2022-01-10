@@ -2,11 +2,13 @@
   "name": "app",
   "version": "0.0.0",
   "scripts": {
+    "start:dev": "swa start dev",
     "dev": "vite",
     "build": "vue-tsc --noEmit && vite build",
     "preview": "vite preview"
   },
   "dependencies": {
+    "axios": "^0.24.0",
     "vue": "^3.2.25"
   },
   "devDependencies": {
