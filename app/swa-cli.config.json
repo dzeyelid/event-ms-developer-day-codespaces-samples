@@ -1,0 +1,11 @@
+{
+  "$schema": "https://raw.githubusercontent.com/Azure/static-web-apps-cli/main/schema/swa-cli.config.schema.json",
+  "configurations": {
+    "dev": {
+      "context": "http://localhost:3000",
+      "run": "npm run dev",
+      "apiLocation": "api",
+      "devserverTimeout": 120000
+    }
+  }
+}
