@@ -20,6 +20,7 @@
     "dbaeumer.vscode-eslint",
     "ms-azuretools.vscode-azurefunctions",
     "ms-azuretools.vscode-azurestaticwebapps",
+    "ms-azuretools.vscode-azureresourcegroups",
     "ms-vscode.azure-account",
     "johnsoncodehk.volar"
   ],
